@@ -1,0 +1,60 @@
+.box{
+    width: 400px;
+    height:600px;
+    background-color:white ;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 55px;
+}
+.heading{
+    text-align: center;
+    padding-top: 45px;
+    font-family: 'Signika Negative', sans-serif;
+}
+body{
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/back_our/20190628/ourmid/pngtree-blue-background-with-geometric-forms-image_280879.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.username{
+margin-right: 200px;
+margin-top: 56px;
+font-family: 'Signika Negative', sans-serif;
+}
+.password{
+    margin-right: 200px;
+    font-family: 'Signika Negative', sans-serif;
+}
+.input{
+border:none;
+outline: none;
+margin-right: 80px;
+}
+hr {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.fpassword{
+    float: right;
+    margin-right: 56px;
+     
+}
+.button{
+    margin-top: 36px;
+margin-left: 38px;
+margin-right: 56px;
+width: 200px;
+height: 40px;
+border-radius: 45px;
+}
+.signup{
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 20px;
+}
+.icons{
+height: 56px;
+    width: 54px;
+    font-size: 24px;
+}
+
